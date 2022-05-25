@@ -1,0 +1,38 @@
+button {
+    border: double;
+    background-color: rgb(66, 193, 197);
+    padding: 7px 14px;
+    color: rgb(75, 74, 74);
+    cursor: pointer;
+  }
+  body {
+    font-family: sans-serif;
+    color: rgb(75, 74, 74);
+    background-color: #ddd;
+    font-size: 16px;
+    text-align: center;
+  }
+  h1 {
+    font-size: 50px;
+    color: rgb(245, 59, 59);
+    text-transform: uppercase;
+    text-align: center;
+  }
+  
+  .header {
+      font-size: 25px;
+      color:black
+  }
+
+  .menu {
+      font-size: 18px;
+  }
+
+.history {
+    font-size: 18px;
+    color:black
+}
+
+p {
+    color:rgb(238, 11, 11)
+}
